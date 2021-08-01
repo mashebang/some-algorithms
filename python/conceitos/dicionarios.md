@@ -66,7 +66,7 @@ avaliacoes = {
 
 Nesta versão do código não há dúvidas de quais valores correspondem a quais avaliações, sendo um exemplo prático de uso onde o dicionário cai melhor que uma Lista. 
 
-Exercícios:
+## Exercícios:
 
 Baseado nos exemplos, crie um script para ser utilizado num restaurante, onde os clientes podem digitar uma nota para avaliar o atendimento, de 0 a 10. Menor que 3 consideramos uma avaliação ruim, maior que 3 e menor ou igual 7 é um avaliação regular. Maior que 7 é considerada uma avaliação boa. O programa só deve parar quando receber uma resposta com o valor 'sair', então o programa mostra um relatório com o numero de clientes para cada categoria de avaliação.
 
