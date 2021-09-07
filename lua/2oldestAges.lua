@@ -16,3 +16,14 @@ function t.twoOldestAges(ages)
   return oldests
 end
 return t
+
+
+
+-- this solution is so much clever !
+
+local t = {}
+function t.twoOldestAges(ages)
+  table.sort(ages)
+  return {ages[#ages-1],ages[#ages]}
+end
+return t
