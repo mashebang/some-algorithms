@@ -1,2 +1,2 @@
-# random-bachelor-algorithms
-some maths and random algorithms made for my bachelor degree's homeworks and experiments 
+# some-algorithms
+some maths and random algorithms made on experiments, studies and POCs.
